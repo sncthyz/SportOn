@@ -5,7 +5,7 @@ import { FiSearch, FiShoppingBag } from "react-icons/fi";
 const Header = () => {
   return (
     <header>
-      <div className="flex justify-between gap-10 pl-10 container mx-auto py-7">
+      <div className="flex justify-between gap-10 pl-20 container mx-auto py-7">
         <Image
           src="/images/logo.svg"
           alt="sporton logo"
